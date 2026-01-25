@@ -97,11 +97,23 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120" alt="Pull Shark" />
+  <br>
+  <b>Achievement Unlocked: Pull Shark</b>
+</p>
+
+
+---
+
+## 🎖️ GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=parthchaudhari9016&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
 </p>
+
 
 ---
 
