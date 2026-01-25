@@ -88,8 +88,10 @@ me.say_hi()
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthchaudhari9016&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthchaudhari9016&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&stroke=00D9FF" alt="Streak Stats" />
 </p>
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthchaudhari9016&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
