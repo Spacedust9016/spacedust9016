@@ -1,54 +1,55 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=parth@github:~$;echo+%22Welcome+to+my+Profile%22;exec+./code_everything.sh" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=PRIME_INTELLECT_SYSTEM_INITIALIZED;Subject:_Parth_Chaudhari;Status:_OPERATIONAL;Role:_ARCHITECT" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=parthchaudhari9016&label=VIEWS&color=000000&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=parthchaudhari9016&label=SYSTEM_ACCESS_LOGS&color=000000&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ```text
-______________________________________________________________________
-|                                                                    |
-|  USER: Parth Chaudhari                ROLE: Software Developer     |
-|  LOC : Earth                          LANG: Python, C, JS          |
-|____________________________________________________________________|
+  SYSTEM_IDENTITY_MATRIX [v4.2.0]
+  ┌────────────────────────────────────────────────────────────────────────┐
+  │  SUBJECT : Parth Chaudhari           ROLE   : Software Architect       │
+  │  ORIGIN  : Earth Node                LANG   : Python, C, JS            │
+  │  STATUS  : Building...               FOCUS  : AI & Systems             │
+  └────────────────────────────────────────────────────────────────────────┘
 ```
 
-## � ./about_me.py
+## ◈ SYSTEM_MODULES.py
 
 ```python
-class Developer:
+class Intellect:
     """
-    A passionate developer building tools and games.
+    Advanced construct for digital creation.
     """
     def __init__(self):
-        self.stack = ["Python", "C", "JavaScript", "Linux"]
-        self.focus = ["Game Development", "Systems Programming"]
+        self.core = ["Python", "C", "JavaScript", "Linux"]
+        self.mission = ["Artificial Intelligence", "Game Systems"]
         
-    def status(self):
-        return "Building cool stuff 🚀"
+    def execute(self):
+        return "Optimizing Reality..."
 
-# Initialize
-me = Developer()
+# Initialize Core
+entity = Intellect()
 ```
 
-## 📂 ./projects/
+## ◈ COMPUTATIONAL_PROJECTS
 
 ```text
-user@github:~/projects$ ls -la --sort=coolness
+root@intellect:~/projects$ ls -la --block-size=M
 
-drwx------  parth  starship-falcon-game/
-    └── [Python] [Pygame] [3D Renderer]
-    └── "A space shooter with ASCII & 3D modes"
+drwx------  architect  starship-falcon-game/
+    ├── [CORE] [PYTHON] [PYGAME]
+    ├── "Advanced 3D/2D Ballistics Simulation"
     └── https://github.com/parthchaudhari9016/starship-falcon-game
 
-drwx------  parth  tic-tac-toe/
-    └── [C] [Console] [AI-Engine]
-    └── "Polished console game with text GUI"
+drwx------  architect  tic-tac-toe/
+    ├── [CORE] [C] [ALGORITHM]
+    ├── "Strategic Game Theory Engine"
     └── https://github.com/parthchaudhari9016/projects-in-c
 ```
 
-## 📊 ./stats.sh
+## ◈ TELEMETRY_DATA
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parthchaudhari9016&show_icons=true&theme=graywhite&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub Stats" />
@@ -58,20 +59,17 @@ drwx------  parth  tic-tac-toe/
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthchaudhari9016&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakLabel=FFFFFF" alt="Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthchaudhari9016&layout=compact&theme=graywhite&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" alt="Top Languages" />
-</p>
-
-## � ./contribution_graph
+## ◈ CONTRIBUTION_MATRIX
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthchaudhari9016&theme=xcode&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF" alt="Contribution Graph" />
 </p>
 
 ```text
-______________________________________________________________________
-|                                                                    |
-|  $ shutdown -h now                                                 |
-|  Goodbye! Thanks for visiting.                                     |
-|____________________________________________________________________|
+  SYSTEM_STATUS
+  ┌────────────────────────────────────────────────────────────────────────┐
+  │  CPU: 12%  MEM: 44%  NET: ONLINE                                       │
+  │  >_ Session Terminated.                                                │
+  └────────────────────────────────────────────────────────────────────────┘
 ```
+
