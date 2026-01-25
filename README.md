@@ -95,27 +95,9 @@ me.say_hi()
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthchaudhari9016&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120" alt="Pull Shark" />
-  <br>
-  <b>Achievement Unlocked: Pull Shark</b>
-</p>
-
 
 ---
 
-## 🎖️ GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parthchaudhari9016&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
-
----
 
 ## 📈 Contribution Graph
 
