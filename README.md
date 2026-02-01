@@ -21,37 +21,105 @@
 
 ## ◈ SYSTEM_MODULES.py
 
-```python
-class Intellect:
-    """
-    Advanced construct for digital creation.
-    """
-    def __init__(self):
-        self.core = ["Python", "C", "JavaScript", "Linux"]
-        self.mission = ["Artificial Intelligence", "Game Systems"]
-        
-    def execute(self):
-        return "Optimizing Reality..."
+<!-- Animated Module Loader -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=14&duration=2500&pause=400&color=FF00FF&center=true&vCenter=true&width=600&lines=LOADING+MODULES...;IMPORT+INTELLECT...;INITIALIZING+CORE...;SYSTEM+READY!" alt="Module Loader" />
+</p>
 
-# Initialize Core
-entity = Intellect()
+```text
+╔══════════════════════════════════════════════════════════════════════════╗
+║                    🤖 SYSTEM MODULES ARCHITECTURE                        ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║   ┌────────────────────────────────────────────────────────────────┐    ║
+║   │  class Intellect:                                              │    ║
+║   │      """                                                       │    ║
+║   │      ⚡ Advanced construct for digital creation                 │    ║
+║   │      """                                                       │    ║
+║   │                                                                │    ║
+║   │      def __init__(self):                                       │    ║
+║   │          self.core = ["Python", "C", "JavaScript", "Linux"]    │    ║
+║   │          self.mission = ["AI", "Game Systems"]                 │    ║
+║   │          self.status = "ONLINE"                                │    ║
+║   │                                                                │    ║
+║   │      def execute(self):                                        │    ║
+║   │          return "🚀 Optimizing Reality..."                     │    ║
+║   │                                                                │    ║
+║   │  # Initialize Core                                             │    ║
+║   │  >>> entity = Intellect()                                      │    ║
+║   │  >>> entity.execute()                                          │    ║
+║   │  'Optimizing Reality...'                                       │    ║
+║   └────────────────────────────────────────────────────────────────┘    ║
+║                                                                          ║
+║   CORE_COMPETENCIES:                                                     ║
+║   ╔═══════════════╦═══════════════╦═══════════════╦═══════════════╗     ║
+║   ║   🐍 PYTHON   ║    ⚙️  C      ║   📜 JAVASCRIPT║   🐧 LINUX    ║     ║
+║   ║   ████████    ║    ██████     ║    █████      ║    ██████     ║     ║
+║   ║    [95%]      ║     [80%]     ║     [70%]     ║     [75%]     ║     ║
+║   ╚═══════════════╩═══════════════╩═══════════════╩═══════════════╝     ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
+
+<!-- Animated Skill Pulse -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=2000&pause=300&color=FF00FF&center=true&vCenter=true&width=700&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%Python;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%C;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88JavaScript;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%Linux" alt="Skills" />
+</p>
 
 ## ◈ COMPUTATIONAL_PROJECTS
 
+<!-- Project Loading Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=14&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=SCANNING+REPOSITORIES...;FETCHING+PROJECT+DATA...;RENDERING+PROJECT+GRID...;COMPLETE!" alt="Project Loader" />
+</p>
+
 ```text
-root@intellect:~/projects$ ls -la --block-size=M
-
-drwx------  architect  starship-falcon-game/
-    ├── [CORE] [PYTHON] [PYGAME]
-    ├── "Advanced 3D/2D Ballistics Simulation"
-    └── https://github.com/Spacedust9016/starship-falcon-game
-
-drwx------  architect  tic-tac-toe/
-    ├── [CORE] [C] [ALGORITHM]
-    ├── "Strategic Game Theory Engine"
-    └── https://github.com/Spacedust9016/projects-in-c
+╔══════════════════════════════════════════════════════════════════════════╗
+║                    🚀 ACTIVE PROJECTS DATABASE                           ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  root@stardust9016:~/repositories$ ls -la --block-size=M                 ║
+║                                                                          ║
+║  ╔══════════════════════════════════════════════════════════════════╗   ║
+║  ║  📁 STARSHIP-FALCON-GAME/                                       ║   ║
+║  ╠══════════════════════════════════════════════════════════════════╣   ║
+║  ║  │ Status: ████████████████████ ACTIVE                          ║   ║
+║  ║  │ Stack:  🐍 Python │ 🎮 Pygame │ 🎯 Ballistics                 ║   ║
+║  ║  │ Desc:   "Advanced 3D/2D Ballistics Simulation"               ║   ║
+║  ║  │ Link:   github.com/Spacedust9016/starship-falcon-game        ║   ║
+║  ║  │                                                             ║   ║
+║  ║  │ [LAUNCH]───────────────────────────────────────────────▶     ║   ║
+║  ╚══════════════════════════════════════════════════════════════════╝   ║
+║                              ▼                                           ║
+║  ╔══════════════════════════════════════════════════════════════════╗   ║
+║  ║  📁 PROJECTS-IN-C/                                              ║   ║
+║  ╠══════════════════════════════════════════════════════════════════╣   ║
+║  ║  │ Status: ████████████████████ ACTIVE                          ║   ║
+║  ║  │ Stack:  ⚙️  C │ 🔧 Algorithms │ 🧠 Game Theory                ║   ║
+║  ║  │ Desc:   "Strategic Game Theory Engine"                       ║   ║
+║  ║  │ Link:   github.com/Spacedust9016/projects-in-c               ║   ║
+║  ║  │                                                             ║   ║
+║  ║  │ [COMPILE]───────────────────────────────────────────────▶    ║   ║
+║  ╚══════════════════════════════════════════════════════════════════╝   ║
+║                              ▼                                           ║
+║  ╔══════════════════════════════════════════════════════════════════╗   ║
+║  ║  📁 NVDA-STOCK-VISUALIZER/                                      ║   ║
+║  ╠══════════════════════════════════════════════════════════════════╣   ║
+║  ║  │ Status: ████████████████████ ACTIVE                          ║   ║
+║  ║  │ Stack:  📊 yfinance │ 📈 matplotlib │ 🐼 pandas              ║   ║
+║  ║  │ Desc:   "6-Month Market Analysis Dashboard"                  ║   ║
+║  ║  │ Link:   github.com/Spacedust9016/nvda-stock-visualizer      ║   ║
+║  ║  │                                                             ║   ║
+║  ║  │ [ANALYZE]───────────────────────────────────────────────▶    ║   ║
+║  ╚══════════════════════════════════════════════════════════════════╝   ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
+
+<!-- Animated Project Status -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=3000&pause=600&color=00FFFF&center=true&vCenter=true&width=700&lines=PROJECT+1%3A+STARSHIP+FALCON+GAME+++++++++++%5B+STATUS%3A+LAUNCH+READY+++%5D;PROJECT+2%3A+C+PROJECTS+++++++++++++++++++++++%5B+STATUS%3A+COMPILING+++++%5D;PROJECT+3%3A+NVDA+VISUALIZER+++++++++++++++%5B+STATUS%3A+ANALYZING+++++%5D;ALL+SYSTEMS+OPERATIONAL++++++++++++++++++++%5B+STATUS%3A+NOMINAL+++++++%5D" alt="Project Status" />
+</p>
 
 ## ◈ TELEMETRY_DATA
 
