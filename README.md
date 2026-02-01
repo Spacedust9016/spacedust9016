@@ -55,18 +55,63 @@ drwx------  architect  tic-tac-toe/
 
 ## ◈ TELEMETRY_DATA
 
+<!-- Animated Terminal Stats Display -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Spacedust9016&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=INITIALIZING+DATA+STREAM...;FETCHING+METRICS...;RENDERING+TELEMETRY..." alt="Loading" />
 </p>
 
+```text
+╔══════════════════════════════════════════════════════════════════════════╗
+║                    📊 LIVE SYSTEM TELEMETRY                              ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║   ┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────┐  ║
+║   │  REPOS      │    │  COMMITS    │    │   STREAK    │    │ STARS   │  ║
+║   │  ████████   │    │  ████████   │    │  ████████   │    │ ███████ │  ║
+║   │    [12]     │    │   [200+]    │    │   [🔥45]    │    │   [8]   │  ║
+║   └─────────────┘    └─────────────┘    └─────────────┘    └─────────┘  ║
+║                                                                          ║
+║   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+║   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+║   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+║   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║                                                                          ║
+║   LANG USAGE:    Python [████████░░] 75%                               ║
+║                  C       [████░░░░░░] 40%                                ║
+║                  JS      [██░░░░░░░░] 25%                                ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+<!-- Animated ASCII Wave -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spacedust9016&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakLabel=FFFFFF" alt="Streak Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88" alt="Wave" />
+</p>
+
+<!-- Contribution Matrix - ASCII Art Style -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=12&duration=4000&pause=800&color=39D353&center=true&vCenter=true&width=700&lines=%F0%9F%9F%A9%F0%9F%9F%A9%E2%AC%9C%EF%B8%8F%E2%AC%9C%EF%B8%8F%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%E2%AC%9C%EF%B8%8F%E2%AC%9C%EF%B8%8F%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9%F0%9F%9F%A9" alt="Contribution" />
 </p>
 
 ## ◈ CONTRIBUTION_MATRIX
 
+```text
+    JAN   FEB   MAR   APR   MAY   JUN   JUL   AUG   SEP   OCT   NOV   DEC
+   ┌─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┐
+Mon│▓▓▓▓▓│▓▓▓▓░│▓▓▓▓▓│▓▓▓▓▓│▓▓░░░│▓▓▓▓▓│▓▓▓▓▓│▓▓▓░░│▓▓▓▓▓│▓▓▓▓▓│▓▓▓▓▓│▓▓▓░░│
+Tue│▓▓▓▓▓│▓▓▓░░│▓▓▓▓▓│▓▓▓▓▓│▓▓▓░░│▓▓▓▓▓│▓▓▓▓▓│▓▓▓▓░│▓▓▓▓▓│▓▓▓▓▓│▓▓▓▓▓│▓▓▓▓░│
+Wed│▓▓▓▓▓│▓▓▓▓░│▓▓▓▓▓│▓▓▓▓░│▓▓▓▓▓│▓▓▓▓▓│▓▓▓▓▓│▓▓▓▓▓│▓▓▓▓▓│▓▓▓▓▓│▓▓▓▓▓│▓▓▓▓▓│
+Thu│▓▓▓▓▓│▓▓▓▓▓│▓▓▓▓░│▓▓▓▓░│▓▓▓▓▓│▓▓▓▓▓│▓▓▓▓▓│▓▓▓▓▓│▓▓▓▓▓│▓▓▓▓▓│▓▓▓▓▓│▓▓▓▓▓│
+Fri│▓▓▓▓▓│▓▓▓▓▓│▓▓▓░░│▓▓▓▓▓│▓▓▓▓▓│▓▓▓▓▓│▓▓▓▓▓│▓▓▓▓▓│▓▓▓▓▓│▓▓▓▓▓│▓▓▓▓▓│▓▓▓▓░│
+Sat│▓▓▓░░│▓▓▓▓░│▓▓░░░│▓▓▓░░│▓▓▓░░│▓▓▓▓░│▓▓▓▓░│▓▓▓░░│▓▓▓▓░│▓▓▓░░│▓▓▓▓░│▓▓░░░│
+Sun│▓░░░░│▓▓░░░│▓░░░░│▓▓░░░│▓▓░░░│▓▓▓░░│▓▓▓░░│▓▓░░░│▓▓▓░░│▓▓░░░│▓▓▓░░│▓▓░░░│
+   └─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┘
+   
+   ▓▓▓ = High Activity    ▓▓░ = Medium Activity    ░░░ = Low Activity
+```
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Spacedust9016&theme=xcode&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=STATUS%3A+SYSTEM+ONLINE;COMMIT+STREAK%3A+ACTIVE;CODE+FLOW%3A+OPTIMAL" alt="Status" />
 </p>
 
 ```text
@@ -76,4 +121,3 @@ drwx------  architect  tic-tac-toe/
   │  >_ Session Terminated.                                                │
   └────────────────────────────────────────────────────────────────────────┘
 ```
-
