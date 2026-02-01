@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=CORE_SEQUENCE_INITIALIZED;Subject:_spacedust9016;Status:_OPERATIONAL;Role:_ARCHITECT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=CORE_SEQUENCE_INITIALIZED;Subject:_Parth_Chaudhari;Status:_OPERATIONAL;Role:_ARCHITECT" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=spacedust9016&label=SYSTEM_ACCESS_LOGS&color=000000&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Spacedust9016&label=SYSTEM_ACCESS_LOGS&color=000000&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 ```text
   SYSTEM_IDENTITY_MATRIX [v4.2.0]
   ┌────────────────────────────────────────────────────────────────────────┐
-  │  SUBJECT : spacedust9016             ROLE   : Software Architect       │
+  │  SUBJECT : Parth Chaudhari           ROLE   : Software Architect       │
   │  ORIGIN  : Earth Node                LANG   : Python, C, JS            │
   │  STATUS  : Building...               FOCUS  : AI & Systems             │
   └────────────────────────────────────────────────────────────────────────┘
@@ -37,10 +37,6 @@ class Intellect:
 entity = Intellect()
 ```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spacedust9016&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" alt="Top Langs" />
-</p>
-
 ## ◈ COMPUTATIONAL_PROJECTS
 
 ```text
@@ -49,28 +45,28 @@ root@intellect:~/projects$ ls -la --block-size=M
 drwx------  architect  starship-falcon-game/
     ├── [CORE] [PYTHON] [PYGAME]
     ├── "Advanced 3D/2D Ballistics Simulation"
-    └── https://github.com/spacedust9016/starship-falcon-game
+    └── https://github.com/Spacedust9016/starship-falcon-game
 
 drwx------  architect  tic-tac-toe/
     ├── [CORE] [C] [ALGORITHM]
     ├── "Strategic Game Theory Engine"
-    └── https://github.com/spacedust9016/projects-in-c
+    └── https://github.com/Spacedust9016/projects-in-c
 ```
 
 ## ◈ TELEMETRY_DATA
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spacedust9016&show_icons=true&theme=graywhite&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Spacedust9016&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spacedust9016&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakLabel=FFFFFF" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spacedust9016&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakLabel=FFFFFF" alt="Streak Stats" />
 </p>
 
 ## ◈ CONTRIBUTION_MATRIX
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spacedust9016&theme=xcode&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Spacedust9016&theme=xcode&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF" alt="Contribution Graph" />
 </p>
 
 ```text
