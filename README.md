@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=CORE_SEQUENCE_INITIALIZED;Subject:_Parth_Chaudhari;Status:_OPERATIONAL;Role:_ARCHITECT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=CORE_SEQUENCE_INITIALIZED;Subject:_stardust9016;Status:_OPERATIONAL;Role:_ARCHITECT" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -13,7 +13,7 @@
 ```text
   SYSTEM_IDENTITY_MATRIX [v4.2.0]
   ┌────────────────────────────────────────────────────────────────────────┐
-  │  SUBJECT : Parth Chaudhari           ROLE   : Software Architect       │
+  │  SUBJECT : stardust9016           ROLE   : Software Architect       │
   │  ORIGIN  : Earth Node                LANG   : Python, C, JS            │
   │  STATUS  : Building...               FOCUS  : AI & Systems             │
   └────────────────────────────────────────────────────────────────────────┘
