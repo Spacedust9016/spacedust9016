@@ -37,7 +37,7 @@
 ║  │  i probably want to code it.                                                  │   ║
 ║  └───────────────────────────────────────────────────────────────────────────────┘   ║
 ║                                                                                      ║
-║  status: ONLINE  |  fuel: coffee  |  mode: creating  |  signal: ✦✦✦✦✧              ║
+║  status: ONLINE  |  merge: clean  |  mode: creating  |  signal: ✦✦✦✦✧             ║
 ║                                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 ```
